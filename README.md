@@ -1,4 +1,4 @@
-# UGCA ( University Group Chat App )
+# UGCA ( University Group Chat App ) - Chat Server
 
 ### what is this ?
  
